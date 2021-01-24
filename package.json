@@ -1,0 +1,25 @@
+{
+  "name": "recerteza-bot",
+  "version": "0.0.1",
+  "description": "Simple recipe telegram bot",
+  "main": "index.js",
+  "dependencies": {
+    "telegraf": "^4.0.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phillipe-moreira/recerteza-bot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot"
+  ],
+  "author": "Phillipe Moreira",
+  "license": "MIT"
+}
